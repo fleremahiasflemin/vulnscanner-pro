@@ -1,0 +1,5 @@
+requests
+streamlit
+pymongo
+python-telegram-bot
+reportlab
