@@ -5,6 +5,27 @@
 Este proyecto combina Python y Docker para ofrecerte un dashboard interactivo que te permitirá detectar vulnerabilidades en hosts de forma rápida y sencilla.
 
 ---
++-------------------+
+|     Usuario       |
+| (Navegador Web)   |
++--------+----------+
+         |
+         v
++-------------------+
+|  Dashboard (Flask)|
+| dashboard.py      |
++--------+----------+
+         |
+         v
++-------------------+
+|  Scanner (scanner.py) |
++--------+----------+
+         |
+         v
++-------------------+
+|   Host objetivo   |
++-------------------+
+
 
 ## 🚀 Características
 
