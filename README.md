@@ -91,11 +91,3 @@ Si tienes dudas, sugerencias o ideas para mejorar, ¡abre un issue o contáctame
 
 ---
 
-✅ Para añadirlo a tu repo:
-1. Guarda el texto anterior en un archivo llamado `README.md` en la raíz del proyecto.
-2. Luego haz:
-
-git add README.md
-git commit -m "Agrega README profesional para vulnscanner-pro"
-git push
-
